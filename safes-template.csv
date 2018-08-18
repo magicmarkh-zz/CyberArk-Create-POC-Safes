@@ -1,0 +1,5 @@
+safename,safedescription,cpmname,safeowner,safeuser
+WindowsAccts,Windows Account Storage,PasswordManager,WindowsAdmins,WindowsUsers
+LinuxAccts,Linux Account Storage,PasswordManager,LinuxAdmins,LinuxUsers
+DatabaseAccts,Database Account Storage,PasswordManager,DBAdmins,DBUsers
+CloudAccts,Cloud Account Storage,PasswordManager,CloudAdmins,CloudUsers
